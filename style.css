@@ -5,58 +5,46 @@ body{
 	font-family:'Arial';
 	background:#777;
 	width:960px;
-	margin:60px;
+	margin-left:200px;
 	margin-top:5px;
 	margin-bottom:140px;
 	clear:both;
-
 
 }
 header{
 	background:#ebebeb;
 	padding:20px;
 	margin-bottom:5px;
-	
-	
-
+}
+nav{
+	background:#ebebeb;
+	padding:20px;
+	margin-bottom:5px;
 
 }
-#Nav{
-	margin-top:10px;
+
+aside{
+	width:495px;
+	background:#ebebeb;
+	float:right;
+	margin:300px,20px,20px,50px;
+	padding:50px;
+	height:200px;
+
 }
 section{
 	width:495px;
 	background:#ebebeb;
-	clear:both;
-	margin-top:20px;
-
-
-}
-
-#Aside{
-	background:#ebebeb;
-	width:200%;
-	float:right;
-	margin-right:60px;
-	padding:3px;
-	height:100px;
-	border:2px solid:#777;
-	clear:both;
-}
-#Section{
-	background:#ebebeb;
-	clear:both;
-	float:left;
-	
+	margin-top:30px;
+	margin:20px;
 	
 }
 #article{
-	background:#ebebeb;
-	clear:both;
+	background:#777;
 	height:200px;
 }
 #headers{
-
+	background:#ebebeb
 
 }
 #Paragraphs{
@@ -67,6 +55,7 @@ footer{
 	background:#ebebeb;
 	padding:20px;
 	clear:both;
+
 
 
 }
